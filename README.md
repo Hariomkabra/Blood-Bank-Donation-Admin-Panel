@@ -1,8 +1,6 @@
 # Blood-Bank-Donation-Admin-Panel
 The Blood Bank & DAP; Donation Admin Panel is a management tool designed for blood banks to oversee donor registrations, blood inventory, and donation activities. This panel includes functionalities that help administrators monitor blood stock levels, manage donor information, and streamline the blood donation process.
 
-# Blood Bank & Donation Admin Panel
-
 The Blood Bank & Donation Admin Panel is a comprehensive tool for managing blood donations and inventory in a blood bank. This admin panel allows administrators to monitor blood stock levels, track donations, and manage donor information efficiently.
 
 ## Features
