@@ -18,7 +18,7 @@ The Blood Bank & Donation Admin Panel is a comprehensive tool for managing blood
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Blood-Bank-Donation-Admin-Panel.git
+   git clone https://github.com/Hariomkabra/Blood-Bank-Donation-Admin-Panel.git
 2. Set up a local server using XAMPP or WAMP.
 3. Import the SQL database:
    Open phpMyAdmin and create a database named blood_bank.
